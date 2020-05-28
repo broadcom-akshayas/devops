@@ -30,7 +30,6 @@ jobs:
         
         ls 
         uname 
-        cd vobs/projects/springboard
         ls
         echo Add other actions to build,
         echo test, and deploy your project.
